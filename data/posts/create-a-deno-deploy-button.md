@@ -1,5 +1,5 @@
 ---
-title: Create a Deno Deploy Button
+title: Just say no to the jab
 published_at: 2022-09-24
 ---
 
