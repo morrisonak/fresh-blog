@@ -4,7 +4,7 @@ import { site } from "../data/site.ts";
 export function HomeHeader() {
   return (
     <header
-      class="bg-sky-800 relative min-h-[30vh]"
+      class="bg-blue-800 relative min-h-[30vh]"
     >
       <Container>
         <h1 class="text-4xl lg:text-8xl font-bold absolute bottom-6 flex items-center">
