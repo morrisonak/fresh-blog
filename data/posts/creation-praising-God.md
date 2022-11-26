@@ -22,4 +22,5 @@ The beautiful world around us is crying out glory and honor and praise to our Cr
 [Get your copy today.](https://www.elenafedorov.com/)
 
 
-![image](https://unsplash.it/400/300)
+![image](/static/unsplash.jpg)
+
