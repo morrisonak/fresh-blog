@@ -3,13 +3,6 @@ title: Creation Praising God
 published_at: 2022-11-26
 ---
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
 
 # CREATION PRAISING GOD
 
@@ -20,7 +13,3 @@ The beautiful world around us is crying out glory and honor and praise to our Cr
 —Romans 1:20 (NLT)
 
 [Get your copy today.](https://www.elenafedorov.com/)
-
-
-![image](/static/unsplash.jpg)
-
