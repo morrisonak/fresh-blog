@@ -12,4 +12,4 @@ The beautiful world around us is crying out glory and honor and praise to our Cr
 
 —Romans 1:20 (NLT)
 
-[Get your copy today.](https://www.elenafedorov.com/)
+[Get your copy today.](https://elenafedorov.com/)
