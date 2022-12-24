@@ -16,4 +16,4 @@ To become a railroad signal engineer, individuals typically need to have a bache
 
 Working as a railroad signal engineer can be both challenging and rewarding. It requires a strong understanding of electrical and computer systems, as well as the ability to work under pressure in a fast-paced environment. However, the work of a signal engineer is crucial to the safe and efficient operation of the railroads, and individuals in this field can take pride in knowing that they are playing a vital role in keeping the trains running smoothly.
 
-[Read more here at morrisonj.com](https://morrisonj.com)
+[Read more at morrisonj.com](https://morrisonj.com)
