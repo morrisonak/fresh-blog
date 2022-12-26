@@ -5,6 +5,7 @@ import { State } from "../utils/state.ts";
 import { Container } from "../components/Container.tsx";
 import { HomeHeader } from "../components/HomeHeader.tsx";
 import { PostPreview } from "../components/PostPreview.tsx";
+import { Cta } from "../components/Cta.tsx";
 
 interface Data extends State {
   posts: Post[];
@@ -27,6 +28,8 @@ export default function Home(props: PageProps<Data>) {
         <ul class="mt-16">
           {posts.map((post) => <PostPreview post={post} />)}
         </ul>
+        <Cta />
+
       </Container>
      </main>
     </>
